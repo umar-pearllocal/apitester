@@ -1,0 +1,35 @@
+{
+"message": "Active subscription retrieved successfully",
+"data": [
+{
+"id": 15,
+"user_id": 180,
+"sessions": 3,
+"subscritpion_name": "Basic plan",
+"subscription_id": 7,
+"price": "85",
+"paypal_payments_id": "16",
+"start_date": "2025-12-15",
+"renewal_date": "2026-01-15",
+"expiry_date": "2026-01-15",
+"status": "active",
+"created_at": "2025-12-15 17:25:48",
+"updated_at": "2025-12-15 17:25:48"
+},
+{
+"id": 16,
+"user_id": 180,
+"sessions": 4,
+"subscritpion_name": "Standart Plan",
+"subscription_id": 7,
+"price": "160",
+"paypal_payments_id": "16",
+"start_date": "2025-12-15",
+"renewal_date": "2026-01-15",
+"expiry_date": "2026-01-15",
+"status": "active",
+"created_at": "2025-12-15 17:25:48",
+"updated_at": "2025-12-15 17:25:48"
+}
+]
+}
